@@ -56,6 +56,23 @@ There are 5 parts:
 
 5.Creates a second data file, independent tidy data set with the average of each variable for each activity and each subject.
 
+##Working of run_analysis.R
+
+*Firstly,it installs the packages reshapee2 and data.table packages,if not already installed and loads the packages.
+
+* Load both test and train data
+
+* Load the features and activity labels.
+
+* Extract the mean and standard deviation column names and data.
+
+* Process the data. There are two parts of processing: Processing of test data and processing of train data.
+
+* Merge data set.
+
+* Create a data set named tidy_data.txt data set towards the completion of the script.
+
+
 
 
 
