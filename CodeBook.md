@@ -58,7 +58,7 @@ There are 5 parts:
 
 ##Working of run_analysis.R
 
-*Firstly,it installs the packages reshapee2 and data.table packages,if not already installed and loads the packages.
+* Firstly,it installs the packages reshapee2 and data.table packages,if not already installed and loads the packages.
 
 * Load both test and train data
 
