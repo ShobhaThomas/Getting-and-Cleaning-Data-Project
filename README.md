@@ -2,7 +2,7 @@ Getting and Cleaning Data Project
 =================================
 ##Course Project
 
-You should create one R script called -run_analysis.R- that does the following:
+You should create one R script called run_analysis.R that does the following:
 
 1.Merges the training and the test sets to create one data set.
 
@@ -24,4 +24,4 @@ You should create one R script called -run_analysis.R- that does the following:
 
 ##Dependencies
 
--run.analysis- requires reshape2 and data.table which the script will automatically help to install.
+run_analysis.R requires _reshape2_ and _data.table_ which the script will automatically help to install.
